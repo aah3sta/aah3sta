@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4&height=200&section=header&text=Hi%20there!%20I'm%20Esther%20Oyoo%20👋&fontSize=30&fontColor=fff" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F9A8D4&height=150&section=header&text=Esther%20Oyoo&fontSize=40&fontColor=ffffff&fontAlign=center&desc=Creative%20Technologist%20%7C%20Cloud%20Enthusiast%20%7C%20STEM%20Advocate&descSize=20&descAlign=center&customColor=auto" alt="banner"/>
+&fontSize=30&fontColor=fff" alt="banner"/>
 
 ###  Hey, I'm Esther✨
 
