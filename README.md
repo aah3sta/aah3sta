@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F06C9B&height=150&section=header&text=Esther%20Oyoo&fontSize=40&fontColor=ffffff&fontAlign=center&desc=Creative%20Technologist%20%7C%20Cloud%20Enthusiast%20%7C%20STEM%20Advocate&descSize=20&descAlign=center&descTop=40&customColor=auto" alt="banner"/>
-
 ###  Hey, I'm Esther✨
 
 I'm a **Cloud Enthusiast**, **STEM Advocate**, and **Creative Technologist** blending code, community, and innovation.  
