@@ -1,10 +1,12 @@
-###  Hey, I'm Esther✨
+###  Hello, I'm Esther✨
 
-A Mathematics and Computer Science student who enjoys learning by building and figuring things out through hands-on projects. I’m especially interested in Software Development and how ideas can be turned into practical, working applications.
+![Visitor Count](https://profile-counter.glitch.me/{aah3sta}/count.svg)
 
-This GitHub is my learning space. It documents my growth as a student developer, from early experiments and coursework projects to more structured builds as I improve my skills, consistency and problem-solving approach.
+> Welcome to my learning space!
 
-I’m focused on strengthening my foundations, writing cleaner code and building projects that actually work.
+A Mathematics and Computer Science student who enjoys learning by building and figuring things out through hands-on projects.
+I’m especially interested in Software Development and how ideas can be turned into practical, working applications.
+Documenting my growth as a student developer, from early experiments and coursework projects to more structured builds as I improve my skills, consistency and problem-solving approach.
 
 > I believe in creating with purpose, learning endlessly and leading with heart.
 
@@ -24,9 +26,20 @@ I’m focused on strengthening my foundations, writing cleaner code and building
 
 ---
 
-### 📊 GitHub Stats
+### 🔎 Current Focus
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aah3sta&show_icons=true&theme=calm&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aah3sta&layout=compact&theme=calm&hide_border=true" />
+- Building and refining Python and web-based projects
+- Improving project structure, documentation and version control
+- Actively practicing programming instead of just learning concepts
+- Growing through consistent, project-based learning
+
+---
+
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aah3sta&show_icons=true&locale=en&layout=compact" alt="aah3sta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aah3sta&show_icons=true&locale=en" alt="aah3sta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aah3sta&" alt="aah3sta" /></p>
 
 ---
