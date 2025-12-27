@@ -1,7 +1,5 @@
 ###  Hello, I'm Esther✨
 
-![Visitor Count](https://profile-counter.glitch.me/{aah3sta}/count.svg)
-
 > Welcome to my learning space!
 
 A Mathematics and Computer Science student who enjoys learning by building and figuring things out through hands-on projects.
@@ -36,10 +34,6 @@ Documenting my growth as a student developer, from early experiments and coursew
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aah3sta&show_icons=true&locale=en&layout=compact" alt="aah3sta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aah3sta&show_icons=true&locale=en" alt="aah3sta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aah3sta&" alt="aah3sta" /></p>
+![Metrics](https://metrics.lecoq.io/aah3sta)
 
 ---
