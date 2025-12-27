@@ -16,11 +16,11 @@ I’m focused on strengthening my foundations, writing cleaner code and building
 ![HTML5](https://img.shields.io/badge/HTML5-fcd5ce?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-cdb4db?style=for-the-badge&logo=css3&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-d8e2dc?style=for-the-badge&logo=bootstrap&logoColor=black)
-![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-E7F527?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-fccde5?style=for-the-badge&logo=c&logoColor=black)
-![Visual Basic]
-![Dart]
-![Flutter]
+![Visual Basic](https://img.shields.io/badge/VB-B427F5?style=for-the-badge&logo=vb&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-27C5F5?style=for-the-badge&logo=dart&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-276CF5?style=for-the-badge&logo=flutter&logoColor=black)
 
 ---
 
