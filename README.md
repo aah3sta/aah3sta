@@ -34,6 +34,6 @@ Documenting my growth as a student developer, from early experiments and coursew
 ---
 
 ### 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/aah3sta?template=minimal&languages=1&repositories=1)
+![Metrics](https://metrics.lecoq.io/aah3sta)
 
 ---
