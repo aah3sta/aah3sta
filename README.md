@@ -32,8 +32,3 @@ Documenting my growth as a student developer, from early experiments and coursew
 - Growing through consistent, project-based learning
 
 ---
-
-### 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/aah3sta)
-
----
